@@ -14,5 +14,5 @@
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=strattegia1324&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strattegia1324&layout=compact&langs_count=7&theme=dark"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strattegia1324&layout=compact&langs_count=7&theme=dark"/>
 </div>
