@@ -1,7 +1,7 @@
 ## Olá! Eu sou Joisson Rocha
 
 - 🔭 Atualmente tenho experiência com JS, HTML5 e CSS3
-- 🌱 Atualmente estou aprendendo PHP
+- 🌱 Atualmente estou <!-- aprendendo --> aperfeiçoando meus conhecimentos nestas áreas
 - 😄 Pronomes: Ele/Dele
 
 ##
