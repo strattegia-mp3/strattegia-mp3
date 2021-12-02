@@ -21,7 +21,6 @@
   
 <div> 
   <a href="https://www.youtube.com/channel/UC3qHjAC0RZx_ZjShz_hoX6Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/strattegia1324" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1CA1F3?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:strattegiadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C72F23?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joisson-rocha-961bab1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://instagram.com/strattegia1324"><img src="https://img.shields.io/badge/Instagram-A0522D?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
