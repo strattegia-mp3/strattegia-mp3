@@ -20,8 +20,8 @@
   ##
   
 <div> 
-  <a href = "mailto:strattegiadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C72F23?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://instagram.com/strattegia0704"><img src="https://img.shields.io/badge/Instagram-CD3284?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "https://www.linkedin.com/in/joisson-victor-brand%C3%A3o-rocha-7515b8229/"><img src="https://img.shields.io/badge/Linkedin-00669C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/strattegia0704"><img src="https://img.shields.io/badge/Twitter-1DA1F3?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:strattegiadev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-C72F23?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://instagram.com/strattegia0704" target="_blank"><img src="https://img.shields.io/badge/Instagram-CD3284?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "https://www.linkedin.com/in/joisson-victor-brand%C3%A3o-rocha-7515b8229/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-00669C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://twitter.com/strattegia0704" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F3?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
