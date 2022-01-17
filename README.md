@@ -6,7 +6,7 @@
 ##
 <!-- outro efeito -> midnight-purple -->
 <div>
-  <a href="https://github.com/strattegia1324">
+  <a href="https://github.com/strattegia0704">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=strattegia1324&theme=midnight-purple"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strattegia1324&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
