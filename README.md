@@ -1,8 +1,7 @@
-## *Olá!* Eu sou ***Joisson Rocha***
+## *Hi!* I'm ***Joisson Rocha***
 
-- 🔭 Atualmente tenho experiência com **JS, HTML5 e CSS3**;
-- 🌱 Atualmente estou <!-- aprendendo --> **aperfeiçoando meus conhecimentos nestas áreas e pesquisando sobre outras tecnologias**;
-- 😄 Pronomes: **Ele/Dele**.
+- 🔭 I currently have experience with **JS, HTML5 and CSS3**;
+- 🌱 I am currently **improving my knowledge in the area of development**;
 
 ##
 <!-- outro efeito -> midnight-purple -->
@@ -22,5 +21,5 @@
 <div> 
   <a href = "mailto:strattegiadev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-C72F23?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/joisson-victor-brand%C3%A3o-rocha-7515b8229/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-00669C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://beacons.ai/strattegia0704" target="_blank"><img src="https://img.shields.io/badge/Todas%20as%20Minhas%20Redes%20Sociais-3B3838?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
+  <a href = "https://beacons.ai/strattegia" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%A6-All%20My%20Social%20Medias-3B3838?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
 </div>
