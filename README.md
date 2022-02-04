@@ -1,7 +1,11 @@
 ## *Hi!* I'm ***Joisson Rocha***
 
-- 🔭 I currently have experience with **JS, HTML5 and CSS3**;
-- 🌱 I am currently **improving my knowledge in the area of development**;
+### About Me
+
+I'm a Developer, actually working on Front-End and Back-end.
+
+- **Courses** 👨‍💻 : HTML5, CSS3, JS, LINUX, Git&GitHub;
+- [**WebSite**](https://strattegia.vercel.app) 💻 : *loading...*
 
 ##
 <!-- outro efeito -> midnight-purple -->
