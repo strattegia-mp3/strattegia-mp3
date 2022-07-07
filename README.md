@@ -2,10 +2,10 @@
 
 ### About Me
 
-I'm a Developer, actually working on Front-End and Back-end.
+I'm a student, focused on full-stack development and every day become a better person and professional.
 
-- **Courses** 👨‍💻 : HTML5, CSS3, JS, LINUX, Git&GitHub;
-- [**WebSite**](https://strattegia.vercel.app) 💻 : *loading...*
+- **Courses** 👨‍💻 : HTML5, CSS3, JS, LINUX, Git & GitHub;
+- **WebSite** 💻 : *loading...*
 
 ##
 <!-- outro efeito -> midnight-purple | dark | dracula -->
@@ -25,5 +25,4 @@ I'm a Developer, actually working on Front-End and Back-end.
 <div> 
   <a href = "mailto:strattegiadev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-C72F23?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/joisson-victor-brand%C3%A3o-rocha-7515b8229/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-00669C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://beacons.ai/strattegia" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%A6-All%20My%20Social%20Medias-3B3838?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
 </div>
