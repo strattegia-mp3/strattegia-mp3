@@ -4,14 +4,13 @@
 
 I'm a student, focused on full-stack development and every day become a better person and professional.
 
-- **Courses** 👨‍💻 : HTML5, CSS3, JS, LINUX, Git & GitHub;
-- **WebSite** 💻 : *loading...*
+- **Skills** 👨‍💻 : HTML5, CSS3, JS, LINUX, Git & GitHub;
 
 ##
 <!-- outro efeito -> midnight-purple | dark | dracula -->
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=strattegia0704&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strattegia0704&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="215em" src="https://github-readme-stats.vercel.app/api?username=strattegia0704&theme=midnight-purple"/>
+  <img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strattegia0704&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
