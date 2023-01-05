@@ -7,8 +7,8 @@ I'm a student, focused on full-stack development and every day become a better p
 ##
 <!-- outro efeito -> midnight-purple | dark | dracula -->
 <div align="center"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=strattegia0704&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strattegia0704&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=strattegia0704&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strattegia0704&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
 
