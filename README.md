@@ -21,5 +21,5 @@
   
 <div align="center"> 
   <a href = "mailto:strattegiadev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-C72F23?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/joisson-victor-brand%C3%A3o-rocha-7515b8229/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-00669C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/joissonrocha/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-00669C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
