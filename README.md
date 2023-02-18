@@ -8,7 +8,6 @@
 ##
 <!-- outro efeito -> midnight-purple | dark | dracula -->
 <div align="center"><br>
-  <img height="132em" src="https://github-readme-stats.vercel.app/api/wakatime?username=strattegia&theme=dracula&layout=compact"/><br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=strattegia0704&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strattegia0704&layout=compact&langs_count=7&theme=dracula"/>
   <img height="150em" src="https://streak-stats.demolab.com?user=strattegia0704&theme=dracula&border=FFF&sideNums=00D081"/>
