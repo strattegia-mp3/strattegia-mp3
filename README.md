@@ -8,15 +8,14 @@
 ##
 
 <!-- outro efeito -> midnight-purple | dark | dracula -->
-<div align="center"><br>
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(2, 1fr); gap: 20px; align-items: center;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=strattegia0704&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strattegia0704&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="150em" src="https://streak-stats.demolab.com?user=strattegia0704&theme=dracula&border=FFF&sideNums=00D081"/>
+  <img height="140em" src="https://streak-stats.demolab.com?user=strattegia0704&theme=dracula&border=FFF&sideNums=00D081"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/wakatime?username=strattegia&theme=dracula&layout=compact"/><br/>
 </div>
-<div style="display: inline_block"><br>
 
-</div>
+<div style="display: inline_block"></div>
   
 ##
   
