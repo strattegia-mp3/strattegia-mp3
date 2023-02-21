@@ -7,15 +7,11 @@
 
 ##
 
-<!-- outro efeito -> midnight-purple | dark | dracula -->
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(2, 1fr); gap: 20px; align-items: center;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=strattegia0704&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strattegia0704&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="140em" src="https://streak-stats.demolab.com?user=strattegia0704&theme=dracula&border=FFF&sideNums=00D081"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/wakatime?username=strattegia&theme=dracula&layout=compact"/><br/>
+<div align="center">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/wakatime?username=strattegia&layout=compact&bg_color=30,673AB7,AB83F0&title_color=fff&text_color=fff"/><br/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=strattegia0704&bg_color=30,673AB7,AB83F0&title_color=fff&text_color=fff"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strattegia0704&layout=compact&langs_count=7&bg_color=30,673AB7,AB83F0&title_color=fff&text_color=fff"/>
 </div>
-
-<div style="display: inline_block"></div>
   
 ##
   
