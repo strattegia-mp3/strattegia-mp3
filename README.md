@@ -10,8 +10,8 @@
   ## Coding Activity
   
   <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=strattegia&custom_title=Coding%20Status&layout=compact&range=all_time&bg_color=30,673AB7,AB83F0&title_color=fff&text_color=fff"/><br/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=strattegia0704&bg_color=30,673AB7,AB83F0&title_color=fff&text_color=fff&show_icons=true&icon_color=fff"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strattegia0704&layout=compact&langs_count=7&bg_color=30,673AB7,AB83F0&title_color=fff&text_color=fff"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=strattegia-mp3&bg_color=30,673AB7,AB83F0&title_color=fff&text_color=fff&show_icons=true&icon_color=fff"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strattegia-mp3&layout=compact&langs_count=7&bg_color=30,673AB7,AB83F0&title_color=fff&text_color=fff"/>
 </div>
 
   
