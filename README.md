@@ -1,8 +1,6 @@
-<h2 align="left">Hi! I'm Victor Rocha 👋</h2>
+<h1 align="left">Hi! I'm Victor Rocha 👋</h1>
 
-###
-
-<h3 align="left">👩‍💻 About Me:</h3>
+<h2 align="left">👩‍💻 About Me:</h2>
 
 ###
 
@@ -11,18 +9,10 @@
 ###
 
 <div align="center">
-  <a href="https://dsc.bio/strattegia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joisson-rocha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://wakatime.com/@c4c7ff6e-25d2-40a1-8895-66c2ab417524" target="_blank">
-    <img src="https://wakatime.com/badge/user/c4c7ff6e-25d2-40a1-8895-66c2ab417524.svg?style=for-the-badge" alt="Total time coded since Feb 9 2023" height="30" />
-  </a>
-  <a href="mailto:strattegiadev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=C72F23&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
+  <a href="https://dsc.bio/strattegia" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  /></a>
+  <a href="https://www.linkedin.com/in/joisson-rocha/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
+  <a href="https://wakatime.com/@c4c7ff6e-25d2-40a1-8895-66c2ab417524" target="_blank"><img src="https://wakatime.com/badge/user/c4c7ff6e-25d2-40a1-8895-66c2ab417524.svg?style=for-the-badge" height="30" alt="Total time coded since Feb 9 2023" /></a>
+  <a href="mailto:strattegiadev@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=C72F23&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
 </div>
 
 ###
@@ -45,7 +35,7 @@
 
 ###
 
-<h3 align="left">📊 My Stats:</h3>
+<h2 align="left">📊 My Stats:</h2>
 
 ###
 
