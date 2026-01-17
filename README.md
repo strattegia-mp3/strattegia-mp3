@@ -57,5 +57,11 @@ export default me;
   </a>
 </div>
 
+<br />
+<div align="center">
+<pre><code>~ $ echo "More information about my programming routine:"</code></pre>
+</div>
+<br />
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
