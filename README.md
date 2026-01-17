@@ -137,7 +137,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 17/01/2026 08:36:13 UTC
 <!--END_SECTION:waka-->
-<br />
+<hr />
 <div align="right">
   <p><code>~ $ echo "Code is poetry. 💜"</code></p>
 </div>
