@@ -70,7 +70,7 @@ export default me;
  > 
 > 🏆 7 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
  > 
@@ -135,5 +135,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2026 07:13:31 UTC
+ Last Updated on 17/01/2026 07:25:51 UTC
 <!--END_SECTION:waka-->
