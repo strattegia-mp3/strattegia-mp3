@@ -31,7 +31,12 @@ const me = {
   },
   soft_skills: ['Communication', 'Leadership', 'Teamwork', 'Adaptability', 'Project Management', 'Organization'],
   education: ['Computer Science (Estácio, 2029)', 'Technical Informatics (CEMI, 2023)'],
-  experience: ['Junior Programmer @ SL_LTDA (2023)'],
+  experiences: [
+    'Junior Programmer @ SL_LTDA (2023)',
+    'Test Automation (QA) Intern @ SL_LTDA (2026)',
+    'CEO & Founding Partner @ MythMirror',
+    'Co-founder & Head of Technology and Automation @ RenderUp'
+  ],
   achievements: ['SEBRAE 1st (2022)', 'EXPOCEMI 2nd (2021)', 'Robotics 3rd (2022)'],
   fun_facts: [
     'I love studying and developing new skills and ideas.',
