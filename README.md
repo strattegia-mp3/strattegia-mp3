@@ -71,77 +71,30 @@ export default me;
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 70.7 kB Used in GitHub's Storage 
+> 📦 70.9 kB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2026
+> 🏆 65 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I Mostly Code in TypeScript** 
 
 ```text
-🌞 Morning                22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-🌆 Daytime                34 commits          █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-🌃 Evening                64 commits          ██████████░░░░░░░░░░░░░░░   38.55 % 
-🌙 Night                  46 commits          ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Tuesday                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Wednesday                17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Thursday                 40 commits          ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-Friday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Saturday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Sunday                   30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               20 hrs 46 mins      ███████████████░░░░░░░░░░   59.96 % 
-JSON                     3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Markdown                 3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-SCSS                     3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-
-🔥 Editors: 
-VS Code                  34 hrs 38 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-personal-portfolio       16 hrs 55 mins      ████████████░░░░░░░░░░░░░   48.84 % 
-mythmirror               5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-stratos                  4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-urania                   2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-project-millennium       2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-
-💻 Operating System: 
-Windows                  34 hrs 38 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
-TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-C                        4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
+JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
+C                        4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 22/05/2026 05:39:32 UTC
+ Last Updated on 23/05/2026 05:03:08 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
