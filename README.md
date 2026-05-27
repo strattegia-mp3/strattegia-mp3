@@ -54,6 +54,7 @@ export default me;
   <a href="https://www.linkedin.com/in/victor-jrocha/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&color=7209b7&logoColor=fff&labelColor=240046&style=for-the-badge" height="35" alt="linkedin logo" /></a>
   <a href="mailto:strattegiadev@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=7209b7&logoColor=white&labelColor=240046&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="https://wakatime.com/@c4c7ff6e-25d2-40a1-8895-66c2ab417524" target="_blank"><img src="https://wakatime.com/badge/user/c4c7ff6e-25d2-40a1-8895-66c2ab417524.svg?label=&color=7209b7&logoColor=white&labelColor=240046&style=for-the-badge" height="35" alt="wakatime logo" /></a>
+<a href="https://www.last.fm/user/strattegia" target="_blank"><img src="https://img.shields.io/endpoint?url=https://lastfm-shields-badge.vercel.app/api/scrobbles&logo=last.fm&logoColor=white" height="35" alt="last.fm scrobbles" /></a>
 </div>
 
 <div align="center">
