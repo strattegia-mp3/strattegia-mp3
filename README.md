@@ -109,19 +109,16 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               22 mins             ████████████████░░░░░░░░░   63.41 % 
-MDX                      10 mins             ████████░░░░░░░░░░░░░░░░░   30.64 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-personal-portfolio       34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -137,7 +134,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2026 06:54:54 UTC
+ Last Updated on 16/06/2026 06:59:37 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
