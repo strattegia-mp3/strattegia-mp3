@@ -111,16 +111,20 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               52 mins             ██████████████░░░░░░░░░░░   56.41 % 
+Markdown                 31 mins             ████████░░░░░░░░░░░░░░░░░   33.86 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Prisma                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ygo-bot                  1 hr 32 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -142,7 +146,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 03:26:20 UTC
+ Last Updated on 11/08/2026 03:19:22 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
