@@ -111,20 +111,20 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               52 mins             ██████████████░░░░░░░░░░░   56.41 % 
-Markdown                 31 mins             ████████░░░░░░░░░░░░░░░░░   33.86 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Prisma                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+TypeScript               59 mins             ███████████████░░░░░░░░░░   59.54 % 
+Markdown                 31 mins             ████████░░░░░░░░░░░░░░░░░   31.43 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Prisma                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ygo-bot                  1 hr 32 mins        █████████████████████████   100.00 % 
+ygo-bot                  1 hr 40 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,7 +146,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 03:19:22 UTC
+ Last Updated on 12/08/2026 03:37:22 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
