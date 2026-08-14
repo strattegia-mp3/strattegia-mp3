@@ -111,20 +111,21 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               59 mins             ███████████████░░░░░░░░░░   59.54 % 
-Markdown                 31 mins             ████████░░░░░░░░░░░░░░░░░   31.43 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Prisma                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+TypeScript               4 hrs 46 mins       ████████████████░░░░░░░░░   65.46 % 
+Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Git Config               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Prisma                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ygo-bot                  1 hr 40 mins        █████████████████████████   100.00 % 
+ygo-bot                  4 hrs 43 mins       ████████████████░░░░░░░░░   64.86 % 
+chapter-aurea            2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.14 % 
 
 💻 Operating System: 
-Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,7 +147,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 03:40:49 UTC
+ Last Updated on 14/08/2026 03:38:39 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
