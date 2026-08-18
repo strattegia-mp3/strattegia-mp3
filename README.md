@@ -111,22 +111,22 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 40 mins       ████████████████░░░░░░░░░   65.51 % 
-Markdown                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Prisma                   1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Git Config               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+TypeScript               5 hrs 48 mins       █████████████████░░░░░░░░   67.14 % 
+Prisma                   1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Git Config               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ygo-bot                  7 hrs 34 mins       ███████████████████░░░░░░   74.30 % 
-chapter-aurea            2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-bot-millennium           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+ygo-bot                  6 hrs 1 min         █████████████████░░░░░░░░   69.70 % 
+chapter-aurea            2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+bot-millennium           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Windows                  10 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -148,7 +148,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 02:41:38 UTC
+ Last Updated on 18/08/2026 02:36:07 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
