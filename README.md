@@ -74,9 +74,9 @@ export default me;
 
 **🐱 My GitHub Data** 
 
-> 📦 82.5 kB Used in GitHub's Storage 
+> 📦 82.6 kB Used in GitHub's Storage 
  > 
-> 🏆 120 Contributions in the Year 2026
+> 🏆 122 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -87,21 +87,21 @@ export default me;
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-🌆 Daytime                44 commits          ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-🌃 Evening                75 commits          █████████░░░░░░░░░░░░░░░░   37.69 % 
-🌙 Night                  57 commits          ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+🌞 Morning                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+🌆 Daytime                44 commits          ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+🌃 Evening                75 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
+🌙 Night                  58 commits          ███████░░░░░░░░░░░░░░░░░░   29.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Thursday                 44 commits          ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Friday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Sunday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Monday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Thursday                 44 commits          ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Sunday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
 ```
 
 
@@ -111,21 +111,22 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 59 mins       ████████████████████░░░░░   79.16 % 
-Prisma                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+TypeScript               5 hrs 15 mins       ████████████████████░░░░░   80.20 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Prisma                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ygo-bot                  6 hrs 14 mins       █████████████████████████   99.03 % 
-bot-millennium           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+ygo-bot                  5 hrs 3 mins        ███████████████████░░░░░░   77.13 % 
+synastria                1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+bot-millennium           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +148,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 02:44:29 UTC
+ Last Updated on 22/08/2026 02:34:48 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
