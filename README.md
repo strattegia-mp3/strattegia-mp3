@@ -111,22 +111,23 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 15 mins       ████████████████████░░░░░   80.20 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Prisma                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+TypeScript               4 hrs 7 mins        ███████████████████░░░░░░   76.35 % 
+MDX                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ygo-bot                  5 hrs 3 mins        ███████████████████░░░░░░   77.13 % 
-synastria                1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-bot-millennium           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+ygo-bot                  3 hrs 23 mins       ████████████████░░░░░░░░░   62.78 % 
+synastria                1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+personal-portfolio       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+sonastria                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -148,7 +149,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 02:34:48 UTC
+ Last Updated on 23/08/2026 02:44:52 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
