@@ -111,23 +111,23 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 7 mins        ███████████████████░░░░░░   76.35 % 
-MDX                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TypeScript               3 hrs 42 mins       ████████████████████░░░░░   78.06 % 
+MDX                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ygo-bot                  3 hrs 23 mins       ████████████████░░░░░░░░░   62.78 % 
-synastria                1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-personal-portfolio       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-sonastria                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+ygo-bot                  2 hrs 45 mins       ██████████████░░░░░░░░░░░   57.80 % 
+synastria                1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   30.24 % 
+personal-portfolio       31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+sonastria                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Windows                  5 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -149,7 +149,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 02:39:03 UTC
+ Last Updated on 26/08/2026 02:47:16 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
