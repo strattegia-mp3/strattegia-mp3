@@ -111,24 +111,23 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 18 mins       █████████████████████░░░░   84.27 % 
-MDX                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TypeScript               4 hrs 52 mins       ██████████████████████░░░   89.03 % 
+MDX                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ygo-bot                  2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.07 % 
-nunes-corretora-saude    2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.06 % 
-synastria                1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-personal-portfolio       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-sonastria                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+nunes-corretora-saude    2 hrs 46 mins       █████████████░░░░░░░░░░░░   50.47 % 
+ygo-bot                  2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.15 % 
+personal-portfolio       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+sonastria                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -150,7 +149,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 11:49:39 UTC
+ Last Updated on 28/08/2026 13:12:39 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
