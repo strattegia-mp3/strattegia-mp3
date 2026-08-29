@@ -74,34 +74,34 @@ export default me;
 
 **🐱 My GitHub Data** 
 
-> 📦 82.6 kB Used in GitHub's Storage 
+> 📦 83.1 kB Used in GitHub's Storage 
  > 
-> 🏆 122 Contributions in the Year 2026
+> 🏆 129 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 21 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-🌆 Daytime                44 commits          ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-🌃 Evening                75 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
-🌙 Night                  58 commits          ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+🌞 Morning                24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+🌆 Daytime                47 commits          ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+🌃 Evening                75 commits          █████████░░░░░░░░░░░░░░░░   36.76 % 
+🌙 Night                  58 commits          ███████░░░░░░░░░░░░░░░░░░   28.43 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Thursday                 44 commits          ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Sunday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Monday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Wednesday                27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Thursday                 44 commits          █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Friday                   37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Sunday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
 ```
 
 
@@ -111,23 +111,21 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 52 mins       ██████████████████████░░░   89.03 % 
-MDX                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               6 hrs 5 mins        ███████████████████████░░   90.71 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nunes-corretora-saude    2 hrs 46 mins       █████████████░░░░░░░░░░░░   50.47 % 
-ygo-bot                  2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.15 % 
-personal-portfolio       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-sonastria                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+nunes-corretora-saude    4 hrs 28 mins       █████████████████░░░░░░░░   66.58 % 
+ygo-bot                  2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.42 % 
 
 💻 Operating System: 
-Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,17 +137,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ████████████░░░░░░░░░░░░░   48.00 % 
-JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               13 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 28/08/2026 13:12:39 UTC
+ Last Updated on 29/08/2026 08:08:15 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
