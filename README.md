@@ -111,21 +111,22 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 55 mins       ████████████████████░░░░░   80.87 % 
-Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+TypeScript               8 hrs 47 mins       ██████████████████████░░░   89.60 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nunes-corretora-saude    4 hrs 42 mins       ████████████████████████░   96.69 % 
-ibrahim-locacoes         9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+ygo-bot                  4 hrs 49 mins       ████████████░░░░░░░░░░░░░   49.16 % 
+nunes-corretora-saude    4 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.89 % 
+ibrahim-locacoes         17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 💻 Operating System: 
-Windows                  4 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +148,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 06:35:23 UTC
+ Last Updated on 02/09/2026 06:12:58 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
