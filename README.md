@@ -111,22 +111,22 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               11 hrs 43 mins      ██████████████████████░░░   89.81 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TypeScript               13 hrs 17 mins      ███████████████████████░░   90.44 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ygo-bot                  6 hrs 43 mins       █████████████░░░░░░░░░░░░   51.60 % 
-ibrahim-locacoes         6 hrs 5 mins        ████████████░░░░░░░░░░░░░   46.65 % 
-nunes-corretora-saude    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+ibrahim-locacoes         7 hrs 20 mins       ████████████░░░░░░░░░░░░░   49.96 % 
+ygo-bot                  7 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.49 % 
+nunes-corretora-saude    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Windows                  13 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -148,7 +148,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 06:07:11 UTC
+ Last Updated on 06/09/2026 06:20:24 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
