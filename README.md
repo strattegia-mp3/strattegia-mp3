@@ -70,101 +70,34 @@ export default me;
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%202%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 83.1 kB Used in GitHub's Storage 
  > 
-> 🏆 130 Contributions in the Year 2026
+> 🏆 134 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 21 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-🌆 Daytime                47 commits          ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-🌃 Evening                75 commits          █████████░░░░░░░░░░░░░░░░   36.59 % 
-🌙 Night                  58 commits          ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Wednesday                27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Thursday                 44 commits          █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Friday                   37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Saturday                 22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Sunday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               10 hrs 15 mins      █████████████████████░░░░   85.30 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-SQL                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 1 min        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ibrahim-locacoes         9 hrs 43 mins       ████████████████████░░░░░   80.84 % 
-ygo-bot                  2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-
-💻 Operating System: 
-Windows                  12 hrs 1 min        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 min (0.19%)
-
-✍️ 0 lines written by AI, 10,450 lines written by hand (0.0% AI-written)
-
-🔤 67,604 Input Tokens, 2,002 Output Tokens
-
-💵 $0.43 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,132 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               13 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               14 repos            █████████████░░░░░░░░░░░░   51.85 % 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 09/09/2026 06:25:31 UTC
+ Last Updated on 10/09/2026 06:23:47 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
