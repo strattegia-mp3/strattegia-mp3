@@ -70,7 +70,7 @@ export default me;
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%201%20min-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -111,48 +111,47 @@ Sunday                   37 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               8 hrs 48 mins       █████████████████░░░░░░░░   67.66 % 
-CSS                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+TypeScript               12 hrs 32 mins      ██████████████████░░░░░░░   73.36 % 
+CSS                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Bash                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 53 mins       ███████████████░░░░░░░░░░   60.59 % 
-VS Code                  5 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.41 % 
+Codex Vscode             11 hrs 26 mins      █████████████████░░░░░░░░   66.89 % 
+VS Code                  5 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.11 % 
 
 🐱‍💻 Projects: 
-project-millennium       4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.19 % 
-millennium-landing       3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-ygo-bot                  1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-ibrahim-locacoes         1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-first-reels              1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+project-millennium       7 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.69 % 
+millennium-landing       3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+ibrahim-locacoes         2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+ygo-bot                  1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+first-reels              1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
 💻 Operating System: 
-Windows                  13 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  17 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 32 mins (65.57%)
+⏱ AI Coding Time: 12 hrs 20 mins (72.18%)
 
-✍️ 5,878 lines written by AI, 2,490 lines written by hand (70.24% AI-written)
+✍️ 7,370 lines written by AI, 2,398 lines written by hand (75.45% AI-written)
 
-🔤 2,762,588 Input Tokens, 455,497 Output Tokens
+🔤 4,448,477 Input Tokens, 614,292 Output Tokens
 
-💵 $33.25 Estimated AI Cost This Week
+💵 $46.27 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 64 AI Prompts
+🧠 16 AI Sessions, 91 AI Prompts
 
-GPT                      6,324 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      7,850 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.24% of written lines came from AI
-📚 Verbose Prompter — average 2,301 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 32.27% of changed lines were hand-edited
+🤖 AI-Driven — 75.45% of written lines came from AI
+📚 Verbose Prompter — average 1,663 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 27.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -168,7 +167,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 06:48:59 UTC
+ Last Updated on 22/09/2026 06:36:06 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
