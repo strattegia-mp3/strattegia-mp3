@@ -70,13 +70,13 @@ export default me;
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2055%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 89.2 kB Used in GitHub's Storage 
+> 📦 91.7 kB Used in GitHub's Storage 
  > 
-> 🏆 161 Contributions in the Year 2026
+> 🏆 178 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,20 +84,89 @@ export default me;
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+🌆 Daytime                62 commits          ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+🌃 Evening                78 commits          ████████░░░░░░░░░░░░░░░░░   31.33 % 
+🌙 Night                  84 commits          ████████░░░░░░░░░░░░░░░░░   33.73 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Wednesday                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Thursday                 60 commits          ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Friday                   40 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Saturday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Sunday                   37 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TypeScript               13 hrs 55 mins      ████████████████████░░░░░   78.58 % 
+Bash                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+
+🔥 Editors: 
+Codex Vscode             10 hrs 57 mins      ███████████████░░░░░░░░░░   61.77 % 
+VS Code                  6 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.23 % 
+
+🐱‍💻 Projects: 
+project-millennium       11 hrs 25 mins      ████████████████░░░░░░░░░   64.44 % 
+millennium-landing       2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+ibrahim-locacoes         2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+ygo-bot                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+
+💻 Operating System: 
+Windows                  17 hrs 43 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 37 mins (71.25%)
+
+✍️ 6,702 lines written by AI, 3,100 lines written by hand (68.37% AI-written)
+
+🔤 4,759,835 Input Tokens, 664,169 Output Tokens
+
+💵 $44.95 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 96 AI Prompts
+
+GPT                      6,929 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 68.37% of written lines came from AI
+📄 Detailed Prompter — average 504 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 39.88% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ██████████████░░░░░░░░░░░   55.17 % 
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+TypeScript               17 repos            ██████████████░░░░░░░░░░░   56.67 % 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 23/09/2026 06:22:43 UTC
+ Last Updated on 24/09/2026 06:31:10 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
