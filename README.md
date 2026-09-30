@@ -70,13 +70,13 @@ export default me;
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%207%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 95.0 kB Used in GitHub's Storage 
+> 📦 95.1 kB Used in GitHub's Storage 
  > 
-> 🏆 235 Contributions in the Year 2026
+> 🏆 240 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -87,21 +87,21 @@ export default me;
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-🌆 Daytime                82 commits          ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-🌃 Evening                94 commits          ████████░░░░░░░░░░░░░░░░░   30.82 % 
-🌙 Night                  98 commits          ████████░░░░░░░░░░░░░░░░░   32.13 % 
+🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+🌆 Daytime                81 commits          ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+🌃 Evening                101 commits         ████████░░░░░░░░░░░░░░░░░   32.48 % 
+🌙 Night                  98 commits          ████████░░░░░░░░░░░░░░░░░   31.51 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Wednesday                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Thursday                 72 commits          ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-Friday                   53 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Sunday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Tuesday                  33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Wednesday                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Thursday                 72 commits          ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+Friday                   53 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Sunday                   41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 ```
 
 
@@ -111,46 +111,47 @@ Sunday                   42 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               11 hrs 13 mins      █████████████████░░░░░░░░   66.72 % 
-Bash                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+TypeScript               8 hrs 12 mins       ███████████████░░░░░░░░░░   59.49 % 
+Bash                     2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 57 mins       ███████████████░░░░░░░░░░   59.21 % 
-VS Code                  6 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.79 % 
+Codex Vscode             8 hrs 28 mins       ███████████████░░░░░░░░░░   61.43 % 
+VS Code                  5 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.57 % 
 
 🐱‍💻 Projects: 
-project-millennium       12 hrs 22 mins      ██████████████████░░░░░░░   73.56 % 
-ibrahim-locacoes         3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-millennium-landing       20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-ygo-bot                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+project-millennium       9 hrs 18 mins       █████████████████░░░░░░░░   67.46 % 
+ibrahim-locacoes         3 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+millennium-landing       20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+ygo-bot                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+bas                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Windows                  16 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs (65.39%)
+⏱ AI Coding Time: 9 hrs 24 mins (68.13%)
 
-✍️ 5,995 lines written by AI, 3,304 lines written by hand (64.47% AI-written)
+✍️ 5,551 lines written by AI, 2,863 lines written by hand (65.97% AI-written)
 
-🔤 3,523,548 Input Tokens, 595,893 Output Tokens
+🔤 2,608,472 Input Tokens, 525,586 Output Tokens
 
-💵 $45.21 Estimated AI Cost This Week
+💵 $38.43 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 83 AI Prompts
+🧠 12 AI Sessions, 65 AI Prompts
 
-GPT                      6,482 lines         █████████████████████████   100.00 % 
+GPT                      6,050 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.47% of written lines came from AI
-📄 Detailed Prompter — average 521 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 46.79% of changed lines were hand-edited
+⚖️ Balanced with AI — 65.97% of written lines came from AI
+📄 Detailed Prompter — average 523 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 44.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,7 +167,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 07:18:09 UTC
+ Last Updated on 30/09/2026 07:08:27 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
