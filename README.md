@@ -43,7 +43,7 @@ const me = {
       environments: ['Linux (Ubuntu/Debian)', 'Windows Server/Desktop', 'Git/GitHub']
     },
     quality: {
-      testing: ['Jest', 'React Testing Library', 'Cypress', 'Playwright', 'Selenium WebDriver', 'NUnit', 'Reqnroll (Gherkin/BDD)'],
+      testing: ['Jest', 'React Testing Lib.', 'Cypress', 'Playwright', 'Selenium WebDriver', 'NUnit', 'Reqnroll (Gherkin/BDD)'],
       practices: ['Unit Tests', 'Integration Tests', 'E2E Tests', 'Test Automation'],
     },
     ai: {
@@ -63,7 +63,14 @@ const me = {
       'IT Governance & Process Design'
     ],
   },
-  soft_skills: ['Communication', 'Leadership', 'Teamwork', 'Adaptability', 'Project Management', 'Organization'],
+  soft_skills: [
+    'Communication',
+    'Leadership',
+    'Teamwork',
+    'Adaptability',
+    'Project Management',
+    'Organization'
+  ],
   education: [
     'B.S. in Computer Science — Estácio (2028)',
     'Technical Degree in IT — CEMI (2023)'
