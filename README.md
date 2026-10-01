@@ -17,27 +17,81 @@ const me = {
   username: 'strattegia',
   birth_year: 2006,
   location: ['Brasília', 'Brazil'],
-  speaked_languages: ['Portuguese', 'English', 'Spanish'],
+  spoken_languages: ['Portuguese', 'English', 'Spanish'],
   tech_stack: {
     languages: ['TypeScript', 'JavaScript', 'Java', 'Python', 'C', 'SQL'],
-    frontend: [
+    frontend: {
       frameworks: ['React', 'Next.js'],
       styling: ['TailwindCSS', 'Bootstrap'],
       uiLibraries: ['MaterialUI', 'shadcn/ui']
+    },
+    backend: {
+      runtime: ['Node.js'],
+      frameworks: ['Express'],
+      api: ['REST', 'Swagger/OpenAPI', 'JWT Authentication', 'Payment & Webhook Integrations'],
+    },
+    databases: {
+      relational: ['PostgreSQL', 'MySQL'],
+      non_relational: ['MongoDB'],
+      tools: ['Prisma', 'Mongoose', 'Redis'],
+    },
+    devops: {
+      containers: ['Docker', 'Docker Compose'],
+      ci_cd: ['GitHub Actions'],
+      cloud: ['Vercel', 'Railway', 'AWS'],
+      practices: ['Environment Variables', 'CI/CD', 'Linux Server Basics'],
+      environments: ['Linux (Ubuntu/Debian)', 'Windows Server/Desktop', 'Git/GitHub']
+    },
+    quality: {
+      testing: ['Jest', 'React Testing Library', 'Cypress', 'Playwright', 'Selenium WebDriver', 'NUnit', 'Reqnroll (Gherkin/BDD)'],
+      practices: ['Unit Tests', 'Integration Tests', 'E2E Tests', 'Test Automation'],
+    },
+    ai: {
+      concepts: ['Prompt Engineering', 'LLM Integration', 'AI Agents'],
+      tools: ['ChatGPT', 'Codex', 'Gemini', 'Gems', 'NotebookLM', 'Claude Code', 'DeepSeek', 'APIFY', 'Make.com'],
+      applications: [
+        'Chatbots & AI Agents',
+        'Workflow & Process Automation',
+        'AI features integrated into web applications',
+        'Lead Generation & Web Scraping'
+      ],
+    },
+    architecture: [
+      'MVC',
+      'SOLID',
+      'Component-based architecture',
+      'IT Governance & Process Design'
     ],
-    backend: ['Node.js', 'Express'],
-    databases: ['MongoDB', 'PostgreSQL'],
-    tools: ['Git/GitHub', 'VSCode', 'Windows', 'Linux', 'Docker'],
   },
   soft_skills: ['Communication', 'Leadership', 'Teamwork', 'Adaptability', 'Project Management', 'Organization'],
-  education: ['Computer Science (Estácio, 2029)', 'Technical Informatics (CEMI, 2023)'],
+  education: [
+    'B.S. in Computer Science — Estácio (2028)',
+    'Technical Degree in IT — CEMI (2023)'
+  ],
   experiences: [
     'Junior Programmer @ SL_LTDA (2023)',
     'Test Automation (QA) Intern @ SL_LTDA (2026)',
     'CEO & Founding Partner @ MythMirror',
     'Co-founder & Head of Technology and Automation @ RenderUp'
   ],
-  achievements: ['SEBRAE 1st (2022)', 'EXPOCEMI 2nd (2021)', 'Robotics 3rd (2022)'],
+  achievements: [
+    '1st Place — Empreendedor do Futuro @ SEBRAE (2022)',
+    '2nd Place — EXPOCEMI Innovation Fair (2021)',
+    '3rd Place — Regional Robotics Tournament (2022)'
+  ],
+  projects: [
+    'MythMirror — Founder & CEO',
+    'RenderUp — Co-founder, Head of Technology & Automation',
+    'Project Millennium — Full-Stack Web Platform for the Yu-Gi-Oh! Community',
+    'Millennium Bot — Interactive Discord Bot & Engagement Ecosystem',
+  ],
+  professional_focus: [
+    'Full Stack Web Development',
+    'Automation & Quality Assurance',
+    'Artificial Intelligence Applied to Products',
+    'Software Architecture',
+  ],
+  availability: ['Freelance projects'],
   fun_facts: [
     'I love studying and developing new skills and ideas.',
     'I simply love music, specifically: Kamelot, Dream Theater & Symphony X.'
@@ -171,5 +225,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
-  <p><code>~ $ echo "Code is poetry. 💜"</code></p>
+  <p><code>~ $ echo "Code is poetry. Carpe Diem. 💜"</code></p>
 </div>
