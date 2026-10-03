@@ -7,11 +7,11 @@
 
 ```bash
 ╭────────────────────────────────────────────────────────────────────────╮
-│  [USER]: Victor "strategia" Rocha                                      │
+│  [USER]: Victor "strattegia" Rocha                                      │
 │  [ROLE]: Computer Science Student & Full Stack Developer               │
 ╰────────────────────────────────────────────────────────────────────────╯
 
-~ $ cat strategia.ts
+~ $ cat strattegia.ts
 const me = {
   name: 'Victor Rocha',
   username: 'strattegia',
