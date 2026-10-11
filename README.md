@@ -172,47 +172,43 @@ Sunday                   46 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 44 mins       ████████████████░░░░░░░░░   64.58 % 
-Bash                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Markdown                 21 mins             ███████████████░░░░░░░░░░   60.68 % 
+Other                    11 mins             ████████░░░░░░░░░░░░░░░░░   31.45 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 59 mins       ██████████████████░░░░░░░   70.21 % 
-VS Code                  1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+VS Code                  25 mins             █████████████████░░░░░░░░   69.80 % 
+Codex Vscode             10 mins             ████████░░░░░░░░░░░░░░░░░   30.20 % 
 
 🐱‍💻 Projects: 
-project-millennium       3 hrs 19 mins       ████████████████████░░░░░   78.31 % 
-serpro-materiais         22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-mythhub                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-tenho-um-dell-g15-5530-e 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-millennium-landing       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+serpro-materiais         22 mins             ███████████████░░░░░░░░░░   61.93 % 
+tenho-um-dell-g15-5530-e 10 mins             ████████░░░░░░░░░░░░░░░░░   30.20 % 
+project-millennium       2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 💻 Operating System: 
-Windows                  4 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 5 mins (72.64%)
+⏱ AI Coding Time: 10 mins (30.2%)
 
-✍️ 1,488 lines written by AI, 122 lines written by hand (92.42% AI-written)
+✍️ 0 lines written by AI, 100 lines written by hand (0.0% AI-written)
 
-🔤 1,213,676 Input Tokens, 121,373 Output Tokens
+🔤 21,077 Input Tokens, 1,627 Output Tokens
 
-💵 $9.88 Estimated AI Cost This Week
+💵 $0.42 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 27 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
-GPT                      1,519 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.42% of written lines came from AI
-📄 Detailed Prompter — average 755 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 8.71% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 915 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -228,7 +224,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 07:34:06 UTC
+ Last Updated on 11/10/2026 07:38:57 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
