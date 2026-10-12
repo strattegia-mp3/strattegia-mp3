@@ -148,21 +148,21 @@ export default me;
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-🌆 Daytime                90 commits          ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-🌃 Evening                119 commits         █████████░░░░░░░░░░░░░░░░   35.00 % 
-🌙 Night                  100 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌞 Morning                43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+🌆 Daytime                156 commits         ████████░░░░░░░░░░░░░░░░░   30.71 % 
+🌃 Evening                181 commits         █████████░░░░░░░░░░░░░░░░   35.63 % 
+🌙 Night                  128 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Tuesday                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Wednesday                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Thursday                 74 commits          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Friday                   53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Saturday                 58 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Sunday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Monday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Tuesday                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Wednesday                63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Thursday                 116 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Friday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Saturday                 108 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Sunday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 ```
 
 
@@ -172,18 +172,18 @@ Sunday                   46 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 21 mins             ███████████████░░░░░░░░░░   60.68 % 
-Other                    11 mins             ████████░░░░░░░░░░░░░░░░░   31.45 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Markdown                 21 mins             ███████████████░░░░░░░░░░   60.86 % 
+Other                    11 mins             ████████░░░░░░░░░░░░░░░░░   31.55 % 
+TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████░░░░░░░░   69.80 % 
-Codex Vscode             10 mins             ████████░░░░░░░░░░░░░░░░░   30.20 % 
+VS Code                  25 mins             █████████████████░░░░░░░░   69.71 % 
+Codex Vscode             10 mins             ████████░░░░░░░░░░░░░░░░░   30.29 % 
 
 🐱‍💻 Projects: 
-serpro-materiais         22 mins             ███████████████░░░░░░░░░░   61.93 % 
-tenho-um-dell-g15-5530-e 10 mins             ████████░░░░░░░░░░░░░░░░░   30.20 % 
-project-millennium       2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+serpro-materiais         22 mins             ████████████████░░░░░░░░░   62.12 % 
+tenho-um-dell-g15-5530-e 10 mins             ████████░░░░░░░░░░░░░░░░░   30.29 % 
+project-millennium       2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 💻 Operating System: 
 Windows                  36 mins             █████████████████████████   100.00 % 
@@ -192,7 +192,7 @@ Windows                  36 mins             ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (30.2%)
+⏱ AI Coding Time: 10 mins (30.29%)
 
 ✍️ 0 lines written by AI, 100 lines written by hand (0.0% AI-written)
 
@@ -224,7 +224,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 07:38:57 UTC
+ Last Updated on 12/10/2026 07:46:56 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
