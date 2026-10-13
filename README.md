@@ -172,43 +172,26 @@ Sunday                   60 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 21 mins             ███████████████░░░░░░░░░░   60.86 % 
-Other                    11 mins             ████████░░░░░░░░░░░░░░░░░   31.55 % 
-TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Markdown                 21 mins             ████████████████░░░░░░░░░   63.65 % 
+Bash                     9 mins              ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████░░░░░░░░   69.71 % 
-Codex Vscode             10 mins             ████████░░░░░░░░░░░░░░░░░   30.29 % 
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-serpro-materiais         22 mins             ████████████████░░░░░░░░░   62.12 % 
-tenho-um-dell-g15-5530-e 10 mins             ████████░░░░░░░░░░░░░░░░░   30.29 % 
-project-millennium       2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+serpro-materiais         22 mins             ████████████████░░░░░░░░░   64.97 % 
+project-millennium       12 mins             █████████░░░░░░░░░░░░░░░░   35.03 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (30.29%)
-
-✍️ 0 lines written by AI, 100 lines written by hand (0.0% AI-written)
-
-🔤 21,077 Input Tokens, 1,627 Output Tokens
-
-💵 $0.42 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 915 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -224,7 +207,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 07:46:56 UTC
+ Last Updated on 13/10/2026 08:09:32 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
