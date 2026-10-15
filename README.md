@@ -172,30 +172,30 @@ Sunday                   72 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 2 hrs 44 mins       ███████████████████████░░   90.54 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Markdown                 2 hrs 59 mins       ██████████████████████░░░   88.54 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 53 mins       ████████████████████████░   95.51 % 
-Codex Vscode             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+VS Code                  3 hrs 14 mins       ████████████████████████░   95.97 % 
+Codex Vscode             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🐱‍💻 Projects: 
-serpro-materiais         2 hrs 45 mins       ███████████████████████░░   90.79 % 
-project-millennium       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-1-desenhe-uma-arquitetura4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+serpro-materiais         3 hrs               ██████████████████████░░░   88.77 % 
+project-millennium       18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+1-desenhe-uma-arquitetura4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 💻 Operating System: 
-Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (6.99%)
+⏱ AI Coding Time: 12 mins (6.27%)
 
-✍️ 208 lines written by AI, 336 lines written by hand (38.24% AI-written)
+✍️ 208 lines written by AI, 486 lines written by hand (29.97% AI-written)
 
 🔤 66,563 Input Tokens, 22,097 Output Tokens
 
@@ -206,10 +206,10 @@ Windows                  3 hrs 2 mins        ███████████�
 GPT                      208 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.24% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 29.97% of written lines came from AI
 📝 Concise Prompter — average 280 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 69.55% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 80.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -225,7 +225,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 06:31:05 UTC
+ Last Updated on 15/10/2026 06:14:03 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
