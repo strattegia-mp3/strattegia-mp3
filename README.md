@@ -131,7 +131,7 @@ export default me;
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2051%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -172,30 +172,31 @@ Sunday                   72 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 2 hrs 59 mins       ██████████████████████░░░   88.54 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Markdown                 3 hrs 38 mins       ███████████████████████░░   90.57 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 14 mins       ████████████████████████░   95.97 % 
-Codex Vscode             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+VS Code                  3 hrs 53 mins       ████████████████████████░   96.62 % 
+Codex Vscode             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🐱‍💻 Projects: 
-serpro-materiais         3 hrs               ██████████████████████░░░   88.77 % 
-project-millennium       18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-1-desenhe-uma-arquitetura4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+serpro-materiais         2 hrs 37 mins       ████████████████░░░░░░░░░   65.22 % 
+serpro-sunnu-estagiarios 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+project-millennium       18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+1-desenhe-uma-arquitetura4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (6.27%)
+⏱ AI Coding Time: 12 mins (5.26%)
 
-✍️ 208 lines written by AI, 486 lines written by hand (29.97% AI-written)
+✍️ 208 lines written by AI, 2,018 lines written by hand (9.34% AI-written)
 
 🔤 66,563 Input Tokens, 22,097 Output Tokens
 
@@ -206,10 +207,10 @@ Windows                  3 hrs 22 mins       ███████████�
 GPT                      208 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 29.97% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 9.34% of written lines came from AI
 📝 Concise Prompter — average 280 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 80.27% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -225,7 +226,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 06:14:03 UTC
+ Last Updated on 18/10/2026 03:35:56 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
