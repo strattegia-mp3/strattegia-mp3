@@ -172,47 +172,47 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 4 hrs 19 mins       ██████████████░░░░░░░░░░░   55.01 % 
-TypeScript               2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
-SQL                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Markdown                 5 hrs 25 mins       █████████████████░░░░░░░░   66.73 % 
+TypeScript               2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+SQL                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 19 mins       █████████████████░░░░░░░░   67.61 % 
-Codex Vscode             2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.39 % 
+VS Code                  6 hrs 16 mins       ███████████████████░░░░░░   77.27 % 
+Codex Vscode             1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
 
 🐱‍💻 Projects: 
-serpro-materiais         2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.12 % 
-project-millennium       2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-ibrahim-locacoes         1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-serpro-sunnu-estagiarios 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-1-desenhe-uma-arquitetura4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+serpro-materiais         2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.06 % 
+serpro-sunnu-estagiarios 2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+ibrahim-locacoes         1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+project-millennium       1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+1-desenhe-uma-arquitetura4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Windows                  7 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 40 mins (33.86%)
+⏱ AI Coding Time: 1 hr 57 mins (24.16%)
 
-✍️ 3,152 lines written by AI, 2,048 lines written by hand (60.62% AI-written)
+✍️ 1,952 lines written by AI, 3,196 lines written by hand (37.92% AI-written)
 
-🔤 2,469,103 Input Tokens, 267,728 Output Tokens
+🔤 1,618,154 Input Tokens, 173,975 Output Tokens
 
-💵 $20.23 Estimated AI Cost This Week
+💵 $13.03 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 31 AI Prompts
+🧠 4 AI Sessions, 22 AI Prompts
 
-GPT                      3,268 lines         █████████████████████████   100.00 % 
+GPT                      2,065 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.62% of written lines came from AI
-📝 Concise Prompter — average 202 characters per prompt
+⚖️ Balanced with AI — 37.92% of written lines came from AI
+📝 Concise Prompter — average 208 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 59.4% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 74.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -228,7 +228,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 06:34:48 UTC
+ Last Updated on 20/10/2026 06:21:37 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
