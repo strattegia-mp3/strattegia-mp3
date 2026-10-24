@@ -172,33 +172,33 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 5 hrs 25 mins       █████████████░░░░░░░░░░░░   53.82 % 
-TypeScript               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Java                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-PowerShell               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Markdown                 5 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+Python                   4 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+Java                     2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+TypeScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 35 mins       ████████████████████████░   95.11 % 
-Codex Vscode             29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+VS Code                  16 hrs 35 mins      ████████████████████████░   97.12 % 
+Codex Vscode             29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🐱‍💻 Projects: 
-serpro-sunnu-estagiarios 4 hrs 20 mins       ███████████░░░░░░░░░░░░░░   43.09 % 
-ibrahim-locacoes         2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-pin-portal-backend       2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-pin-dev-tools            1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-pin-portal-frontend      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+pin-integracao           5 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.11 % 
+pin-portal-backend       4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+serpro-sunnu-estagiarios 3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+ibrahim-locacoes         2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+pin-dev-tools            1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 💻 Operating System: 
-Windows                  10 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (5.28%)
+⏱ AI Coding Time: 31 mins (3.12%)
 
-✍️ 674 lines written by AI, 5,249 lines written by hand (11.38% AI-written)
+✍️ 674 lines written by AI, 15,073 lines written by hand (4.28% AI-written)
 
 🔤 396,163 Input Tokens, 37,834 Output Tokens
 
@@ -209,10 +209,10 @@ Windows                  10 hrs 5 mins       ███████████�
 GPT                      678 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.38% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 4.28% of written lines came from AI
 📝 Concise Prompter — average 228 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 92.48% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -228,7 +228,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 06:19:08 UTC
+ Last Updated on 24/10/2026 06:15:04 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
