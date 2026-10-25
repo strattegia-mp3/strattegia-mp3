@@ -131,19 +131,19 @@ export default me;
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 96.6 kB Used in GitHub's Storage 
  > 
-> 🏆 332 Contributions in the Year 2026
+> 🏆 333 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -172,47 +172,47 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 5 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-Python                   4 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-Java                     2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-TypeScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Markdown                 5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+Python                   4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+TypeScript               2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Java                     2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Bash                     2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 35 mins      ████████████████████████░   97.12 % 
-Codex Vscode             29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+VS Code                  19 hrs 9 mins       ███████████████████████░░   93.20 % 
+Codex Vscode             1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 🐱‍💻 Projects: 
-pin-integracao           5 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.11 % 
-pin-portal-backend       4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-serpro-sunnu-estagiarios 3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-ibrahim-locacoes         2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-pin-dev-tools            1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+pin-integracao           5 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+pin-portal-backend       4 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+freelance-radar          3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+serpro-sunnu-estagiarios 3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+ibrahim-locacoes         1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 
 💻 Operating System: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  20 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (3.12%)
+⏱ AI Coding Time: 2 hrs 49 mins (13.72%)
 
-✍️ 674 lines written by AI, 15,073 lines written by hand (4.28% AI-written)
+✍️ 2,564 lines written by AI, 15,392 lines written by hand (14.28% AI-written)
 
-🔤 396,163 Input Tokens, 37,834 Output Tokens
+🔤 571,485 Input Tokens, 147,019 Output Tokens
 
-💵 $2.58 Estimated AI Cost This Week
+💵 $9.13 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 27 AI Prompts
 
-GPT                      678 lines           █████████████████████████   100.00 % 
+GPT                      2,654 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.28% of written lines came from AI
-📝 Concise Prompter — average 228 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 97.19% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 14.28% of written lines came from AI
+📄 Detailed Prompter — average 593 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 90.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -228,7 +228,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 06:15:04 UTC
+ Last Updated on 25/10/2026 06:34:15 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
