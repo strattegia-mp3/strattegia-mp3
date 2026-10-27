@@ -145,76 +145,6 @@ export default me;
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-🌆 Daytime                174 commits         ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-🌃 Evening                194 commits         ████████░░░░░░░░░░░░░░░░░   32.23 % 
-🌙 Night                  179 commits         ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Tuesday                  52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Wednesday                99 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Thursday                 116 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Friday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Saturday                 108 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-Sunday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Markdown                 5 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-Python                   4 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-Java                     2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Bash                     2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-TypeScript               1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-
-🔥 Editors: 
-VS Code                  17 hrs 51 mins      ███████████████████████░░   93.37 % 
-Codex Vscode             1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-
-🐱‍💻 Projects: 
-pin-integracao           5 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.48 % 
-pin-portal-backend       4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-freelance-radar          3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-serpro-sunnu-estagiarios 3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-pin-dev-tools            1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-
-💻 Operating System: 
-Windows                  19 hrs 7 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 39 mins (13.86%)
-
-✍️ 2,204 lines written by AI, 15,362 lines written by hand (12.55% AI-written)
-
-🔤 459,477 Input Tokens, 128,769 Output Tokens
-
-💵 $8.09 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 24 AI Prompts
-
-GPT                      2,294 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.55% of written lines came from AI
-📄 Detailed Prompter — average 633 characters per prompt
-🔁 Iterative Prompter — average 24 prompts per session
-🔍 Hands-On Reviewer — 91.24% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -228,7 +158,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 06:44:30 UTC
+ Last Updated on 27/10/2026 06:38:14 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
