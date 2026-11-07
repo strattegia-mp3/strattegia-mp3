@@ -172,47 +172,47 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-TypeScript               2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Markdown                 1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Python                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Other                    3 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.70 % 
+Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+JavaScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+TypeScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 2 mins        █████████████░░░░░░░░░░░░   52.80 % 
-Codex Vscode             5 hrs 24 mins       ████████████░░░░░░░░░░░░░   47.20 % 
+VS Code                  5 hrs 13 mins       ███████████████████░░░░░░   74.30 % 
+Codex Vscode             1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
 
 🐱‍💻 Projects: 
-renderup-content-platform4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   42.21 % 
-plataforma-de-inteligenci3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.82 % 
-ibrahim-locacoes         2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-pin-integracao           55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-renderup                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+plataforma-de-inteligenci3 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.77 % 
+renderup-content-platform2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.03 % 
+pin-integracao           55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+ibrahim-locacoes         13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+renderup                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 💻 Operating System: 
-Windows                  11 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 17 mins (81.12%)
+⏱ AI Coding Time: 5 hrs 22 mins (76.5%)
 
-✍️ 4,611 lines written by AI, 1,298 lines written by hand (78.03% AI-written)
+✍️ 1,625 lines written by AI, 1,291 lines written by hand (55.73% AI-written)
 
-🔤 2,722,300 Input Tokens, 364,323 Output Tokens
+🔤 1,223,422 Input Tokens, 136,843 Output Tokens
 
-💵 $27.86 Estimated AI Cost This Week
+💵 $10.26 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 81 AI Prompts
+🧠 11 AI Sessions, 50 AI Prompts
 
-GPT                      4,650 lines         █████████████████████████   100.00 % 
+GPT                      1,629 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.03% of written lines came from AI
-📄 Detailed Prompter — average 623 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 58.34% of changed lines were hand-edited
+⚖️ Balanced with AI — 55.73% of written lines came from AI
+📄 Detailed Prompter — average 834 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 74.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -228,7 +228,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2026 08:19:23 UTC
+ Last Updated on 07/11/2026 07:35:58 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
