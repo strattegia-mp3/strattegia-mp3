@@ -172,47 +172,45 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    4 hrs 30 mins       ████████████████░░░░░░░░░   62.39 % 
-TypeScript               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Other                    3 hrs 15 mins       ███████████████░░░░░░░░░░   59.61 % 
+TypeScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 52 mins       ████████████████████████░   95.22 % 
-Codex Vscode             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+VS Code                  5 hrs 19 mins       ████████████████████████░   97.33 % 
+Codex Vscode             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🐱‍💻 Projects: 
-plataforma-de-inteligenci4 hrs 29 mins       ████████████████░░░░░░░░░   62.27 % 
-kerykeion                1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-pin-portal-backend       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-renderup                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-ibrahim-locacoes         10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+plataforma-de-inteligenci3 hrs 15 mins       ███████████████░░░░░░░░░░   59.61 % 
+kerykeion                1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   35.49 % 
+pin-portal-backend       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 💻 Operating System: 
-Windows                  7 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 27 mins (89.51%)
+⏱ AI Coding Time: 4 hrs 51 mins (88.8%)
 
-✍️ 2,256 lines written by AI, 145 lines written by hand (93.96% AI-written)
+✍️ 2,092 lines written by AI, 32 lines written by hand (98.49% AI-written)
 
-🔤 515,833 Input Tokens, 113,479 Output Tokens
+🔤 337,605 Input Tokens, 90,500 Output Tokens
 
-💵 $6.03 Estimated AI Cost This Week
+💵 $4.61 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 47 AI Prompts
+🧠 9 AI Sessions, 36 AI Prompts
 
-GPT                      2,276 lines         █████████████████████████   100.00 % 
+GPT                      2,112 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.96% of written lines came from AI
-📚 Verbose Prompter — average 1,576 characters per prompt
+🤖 AI-Driven — 98.49% of written lines came from AI
+📚 Verbose Prompter — average 1,798 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 7.97% of changed lines were hand-edited
+🚀 High AI Trust — 2.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -228,7 +226,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2026 08:04:18 UTC
+ Last Updated on 12/11/2026 08:41:47 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
