@@ -131,7 +131,7 @@ export default me;
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2043%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -172,45 +172,47 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    3 hrs 15 mins       ███████████████░░░░░░░░░░   59.61 % 
-TypeScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Other                    3 hrs 21 mins       █████████████░░░░░░░░░░░░   50.66 % 
+Bash                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+TypeScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 19 mins       ████████████████████████░   97.33 % 
-Codex Vscode             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+VS Code                  6 hrs 7 mins        ███████████████████████░░   92.47 % 
+Codex Vscode             29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 
 🐱‍💻 Projects: 
-plataforma-de-inteligenci3 hrs 15 mins       ███████████████░░░░░░░░░░   59.61 % 
-kerykeion                1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   35.49 % 
-pin-portal-backend       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+plataforma-de-inteligenci2 hrs 58 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
+kerykeion                1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+pin-integracao           56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+ibrahim-locacoes         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+pin-portal-backend       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 💻 Operating System: 
-Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 51 mins (88.8%)
+⏱ AI Coding Time: 4 hrs 56 mins (74.81%)
 
-✍️ 2,092 lines written by AI, 32 lines written by hand (98.49% AI-written)
+✍️ 2,092 lines written by AI, 92 lines written by hand (95.79% AI-written)
 
-🔤 337,605 Input Tokens, 90,500 Output Tokens
+🔤 570,906 Input Tokens, 98,547 Output Tokens
 
-💵 $4.61 Estimated AI Cost This Week
+💵 $5.54 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 36 AI Prompts
+🧠 10 AI Sessions, 33 AI Prompts
 
 GPT                      2,112 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.49% of written lines came from AI
-📚 Verbose Prompter — average 1,798 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.22% of changed lines were hand-edited
+🤖 AI-Driven — 95.79% of written lines came from AI
+📚 Verbose Prompter — average 1,753 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 38.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -226,7 +228,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2026 08:41:47 UTC
+ Last Updated on 13/11/2026 08:31:54 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
