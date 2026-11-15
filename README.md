@@ -131,13 +131,13 @@ export default me;
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 98.3 kB Used in GitHub's Storage 
+> 📦 102.7 kB Used in GitHub's Storage 
  > 
-> 🏆 386 Contributions in the Year 2026
+> 🏆 391 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -148,21 +148,21 @@ export default me;
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-🌆 Daytime                223 commits         ████████░░░░░░░░░░░░░░░░░   31.68 % 
-🌃 Evening                210 commits         ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-🌙 Night                  215 commits         ████████░░░░░░░░░░░░░░░░░   30.54 % 
+🌞 Morning                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+🌆 Daytime                244 commits         ████████░░░░░░░░░░░░░░░░░   33.11 % 
+🌃 Evening                215 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌙 Night                  222 commits         ████████░░░░░░░░░░░░░░░░░   30.12 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Tuesday                  61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Wednesday                154 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Thursday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Friday                   108 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Saturday                 108 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Sunday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Monday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Tuesday                  61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Wednesday                175 commits         ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Thursday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Friday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Saturday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Sunday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
 ```
 
 
@@ -172,47 +172,48 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    3 hrs 1 min         ████████████░░░░░░░░░░░░░   47.97 % 
-Bash                     1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-TypeScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+TypeScript               3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.46 % 
+Other                    3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+Bash                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 47 mins       ███████████████████████░░   92.08 % 
-Codex Vscode             29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+VS Code                  6 hrs 45 mins       █████████████████░░░░░░░░   66.13 % 
+Codex Vscode             3 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
 
 🐱‍💻 Projects: 
-plataforma-de-inteligenci2 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   41.99 % 
-kerykeion                1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   30.88 % 
-pin-integracao           57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-ibrahim-locacoes         22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-pin-portal-backend       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+personal-portfolio       3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
+plataforma-de-inteligenci2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+kerykeion                1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+pin-integracao           57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+ibrahim-locacoes         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 💻 Operating System: 
-Windows                  6 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 36 mins (73.38%)
+⏱ AI Coding Time: 8 hrs 19 mins (81.43%)
 
-✍️ 2,092 lines written by AI, 106 lines written by hand (95.18% AI-written)
+✍️ 3,745 lines written by AI, 114 lines written by hand (97.05% AI-written)
 
-🔤 570,906 Input Tokens, 98,547 Output Tokens
+🔤 1,456,031 Input Tokens, 266,704 Output Tokens
 
-💵 $5.54 Estimated AI Cost This Week
+💵 $19.90 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 32 AI Prompts
+🧠 11 AI Sessions, 67 AI Prompts
 
-GPT                      2,112 lines         █████████████████████████   100.00 % 
+GPT                      3,752 lines         ████████████████████████░   94.99 % 
+Codex-Vscode             198 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.18% of written lines came from AI
-📚 Verbose Prompter — average 1,802 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 38.55% of changed lines were hand-edited
+🤖 AI-Driven — 97.05% of written lines came from AI
+📄 Detailed Prompter — average 977 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 25.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -228,7 +229,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 07:52:35 UTC
+ Last Updated on 15/11/2026 08:13:00 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
