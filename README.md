@@ -131,7 +131,7 @@ export default me;
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2024%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -148,21 +148,21 @@ export default me;
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-🌆 Daytime                307 commits         █████████░░░░░░░░░░░░░░░░   37.17 % 
-🌃 Evening                215 commits         ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-🌙 Night                  248 commits         ████████░░░░░░░░░░░░░░░░░   30.02 % 
+🌞 Morning                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+🌆 Daytime                319 commits         █████████░░░░░░░░░░░░░░░░   37.89 % 
+🌃 Evening                215 commits         ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+🌙 Night                  252 commits         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Tuesday                  61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Wednesday                238 commits         ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-Thursday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Friday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Saturday                 113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Sunday                   81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Monday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Tuesday                  61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Wednesday                250 commits         ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+Thursday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Friday                   140 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Saturday                 113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Sunday                   81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 ```
 
 
@@ -172,48 +172,48 @@ Sunday                   81 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    5 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   36.39 % 
-TypeScript               3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-Bash                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Python                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Other                    4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+TypeScript               3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Python                   2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Bash                     2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 17 mins      █████████████████░░░░░░░░   67.42 % 
-Codex Vscode             4 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.58 % 
+VS Code                  12 hrs 31 mins      ██████████████████░░░░░░░   72.97 % 
+Codex Vscode             4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
 
 🐱‍💻 Projects: 
-personal-portfolio       5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
-plataforma-de-inteligenci5 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.88 % 
-pin-integracao           3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-ibrahim-locacoes         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-pin-portal-backend       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+personal-portfolio       5 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.67 % 
+plataforma-de-inteligenci5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
+pin-integracao           4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+pin-postgres             51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+pin-dev-tools            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
-Windows                  15 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 10 mins (73.21%)
+⏱ AI Coding Time: 10 hrs 41 mins (62.32%)
 
-✍️ 2,023 lines written by AI, 837 lines written by hand (70.73% AI-written)
+✍️ 2,023 lines written by AI, 1,194 lines written by hand (62.88% AI-written)
 
-🔤 1,670,447 Input Tokens, 239,039 Output Tokens
+🔤 1,437,146 Input Tokens, 230,992 Output Tokens
 
-💵 $20.89 Estimated AI Cost This Week
+💵 $20.62 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 75 AI Prompts
+🧠 8 AI Sessions, 70 AI Prompts
 
 GPT                      2,099 lines         ███████████████████████░░   91.38 % 
 Codex-Vscode             198 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.73% of written lines came from AI
-📄 Detailed Prompter — average 677 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 49.93% of changed lines were hand-edited
+⚖️ Balanced with AI — 62.88% of written lines came from AI
+📄 Detailed Prompter — average 719 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 73.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -229,7 +229,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2026 09:11:15 UTC
+ Last Updated on 20/11/2026 08:55:29 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
