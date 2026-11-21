@@ -172,48 +172,48 @@ Sunday                   81 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-TypeScript               3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Python                   2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Bash                     2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Other                    3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+TypeScript               3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Python                   2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Bash                     2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 31 mins      ██████████████████░░░░░░░   72.97 % 
-Codex Vscode             4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+VS Code                  11 hrs 16 mins      ██████████████████░░░░░░░   70.84 % 
+Codex Vscode             4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.16 % 
 
 🐱‍💻 Projects: 
-personal-portfolio       5 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.67 % 
-plataforma-de-inteligenci5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
-pin-integracao           4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-pin-postgres             51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-pin-dev-tools            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+personal-portfolio       5 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.41 % 
+pin-integracao           4 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+plataforma-de-inteligenci4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+pin-postgres             51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+pin-dev-tools            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Operating System: 
-Windows                  17 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 41 mins (62.32%)
+⏱ AI Coding Time: 9 hrs 26 mins (59.39%)
 
-✍️ 2,023 lines written by AI, 1,194 lines written by hand (62.88% AI-written)
+✍️ 2,023 lines written by AI, 1,180 lines written by hand (63.16% AI-written)
 
 🔤 1,437,146 Input Tokens, 230,992 Output Tokens
 
 💵 $20.62 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 70 AI Prompts
+🧠 7 AI Sessions, 64 AI Prompts
 
 GPT                      2,099 lines         ███████████████████████░░   91.38 % 
 Codex-Vscode             198 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.88% of written lines came from AI
-📄 Detailed Prompter — average 719 characters per prompt
+⚖️ Balanced with AI — 63.16% of written lines came from AI
+📄 Detailed Prompter — average 574 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 73.01% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 72.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -229,7 +229,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2026 08:55:29 UTC
+ Last Updated on 21/11/2026 08:37:47 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
