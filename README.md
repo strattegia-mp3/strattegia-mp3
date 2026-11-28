@@ -131,7 +131,7 @@ export default me;
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -145,24 +145,24 @@ export default me;
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-🌆 Daytime                463 commits         ███████████░░░░░░░░░░░░░░   44.22 % 
-🌃 Evening                215 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-🌙 Night                  309 commits         ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+🌞 Morning                60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+🌆 Daytime                469 commits         ███████████░░░░░░░░░░░░░░   44.45 % 
+🌃 Evening                215 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+🌙 Night                  311 commits         ███████░░░░░░░░░░░░░░░░░░   29.48 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Tuesday                  65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Wednesday                394 commits         █████████░░░░░░░░░░░░░░░░   37.63 % 
-Thursday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Friday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Saturday                 113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Sunday                   87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Monday                   80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Tuesday                  65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Wednesday                400 commits         █████████░░░░░░░░░░░░░░░░   37.91 % 
+Thursday                 120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Friday                   190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Saturday                 113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Sunday                   87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 ```
 
 
@@ -172,47 +172,47 @@ Sunday                   87 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-TypeScript               4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-Java                     3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-SQL                      2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Java                     5 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Python                   5 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+TypeScript               5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Other                    2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+SQL                      2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 18 mins      █████████████████████░░░░   82.99 % 
-Codex Vscode             3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+VS Code                  22 hrs 57 mins      ██████████████████████░░░   87.98 % 
+Codex Vscode             3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 
 🐱‍💻 Projects: 
-pin-portal-backend       5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.60 % 
-pin-integracao           5 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-ibrahim-locacoes         4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-plataforma-de-inteligenci1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-pin-portal-frontend      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+pin-portal-backend       8 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.28 % 
+pin-integracao           7 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+ibrahim-locacoes         4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+plataforma-de-inteligenci3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+pin-portal-frontend      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 
 💻 Operating System: 
-Windows                  18 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 36 mins (30.38%)
+⏱ AI Coding Time: 7 hrs 50 mins (30.06%)
 
-✍️ 2,525 lines written by AI, 4,224 lines written by hand (37.41% AI-written)
+✍️ 2,618 lines written by AI, 7,586 lines written by hand (25.66% AI-written)
 
-🔤 1,635,701 Input Tokens, 164,467 Output Tokens
+🔤 1,958,415 Input Tokens, 177,206 Output Tokens
 
-💵 $14.47 Estimated AI Cost This Week
+💵 $16.22 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 47 AI Prompts
+🧠 14 AI Sessions, 65 AI Prompts
 
-GPT                      2,596 lines         █████████████████████████   100.00 % 
+GPT                      2,705 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.41% of written lines came from AI
-📄 Detailed Prompter — average 513 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 85.5% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.66% of written lines came from AI
+📚 Verbose Prompter — average 3,026 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 88.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -228,7 +228,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2026 09:59:06 UTC
+ Last Updated on 28/11/2026 09:14:35 UTC
 <!--END_SECTION:waka-->
 <hr />
 <div align="right">
